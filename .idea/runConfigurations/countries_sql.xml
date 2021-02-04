@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="countries.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+    <script-file value="$PROJECT_DIR$/countries.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="327476df-f5fc-4739-89e1-fe89af38ca6c" />
+    <data-source id="0adbbf1f-f3ec-465a-8665-9d37f837e965" />
+    <method v="2" />
+  </configuration>
+</component>
